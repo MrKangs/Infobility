@@ -7,8 +7,6 @@ import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import ProgressBar from "react-bootstrap/ProgressBar";
-import SplitButton from "react-bootstrap/SplitButton";
-import { Link } from "react-router-dom";
 
 class App extends React.Component {
     constructor(props) {
